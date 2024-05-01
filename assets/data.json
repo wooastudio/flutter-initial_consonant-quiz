@@ -1,0 +1,805 @@
+{
+  "바다동물(2글자) - 1": [
+    {
+      "name": "고래",
+      "initial": "ㄱㄹ",
+      "fhint": "꼬리로 북을쳐요",
+      "shint": "고ㄹ"
+    },
+    {
+      "name": "상어",
+      "initial": "ㅅㅇ",
+      "fhint": "바다의 포식자",
+      "shint": "ㅅ어"
+    },
+    {
+      "name": "물개",
+      "initial": "ㅁㄱ",
+      "fhint": "멍멍",
+      "shint": "ㅁ개"
+    },
+    {
+      "name": "수달",
+      "initial": "ㅅㄷ ",
+      "fhint": "귀요미",
+      "shint": "ㅅ달"
+    },
+    {
+      "name": "해달",
+      "initial": "ㅎㄷ ",
+      "fhint": "수달의 일종",
+      "shint": "ㅎ달"
+    },
+    {
+      "name": "해마",
+      "initial": "ㅎㅁ",
+      "fhint": "숨바꼭질의 왕",
+      "shint": "ㅎ마"
+    },
+    {
+      "name": "장어",
+      "initial": "ㅈㅇ",
+      "fhint": "엄청 길어요",
+      "shint": "ㅈ어"
+    },
+    {
+      "name": "갈치",
+      "initial": "ㄱㅊ",
+      "fhint": "은빛의 펄",
+      "shint": "갈ㅊ"
+    },
+    {
+      "name": "멸치",
+      "initial": "ㅁㅊ",
+      "fhint": "왕눈이",
+      "shint": "ㅁ치"
+    },
+    {
+      "name": "날치",
+      "initial": "ㄴㅊ",
+      "fhint": "너… 나니?",
+      "shint": "날ㅊ"
+    },
+    {
+      "name": "펭귄",
+      "initial": "ㅍㄱ",
+      "fhint": "남극",
+      "shint": "펭ㄱ"
+    },
+    {
+      "name": "문어",
+      "initial": "ㅁㅇ",
+      "fhint": "먹물",
+      "shint": "ㅁ어"
+    },
+    {
+      "name": "새우",
+      "initial": "ㅅㅇ",
+      "fhint": "고래싸움",
+      "shint": "ㅅ우"
+    }
+  ],
+  "육지동물(2글자) - 1": [
+    {
+      "name": "토끼",
+      "initial": "ㅌㄲ",
+      "fhint": "깡총깡총",
+      "shint": "토ㄲ"
+    },
+    {
+      "name": "사자",
+      "initial": "ㅅㅈ",
+      "fhint": "동물의 왕",
+      "shint": "사ㅈ"
+    },
+    {
+      "name": "표범",
+      "initial": "ㅍㅂ",
+      "fhint": "얼룩무늬",
+      "shint": "표ㅂ"
+    },
+    {
+      "name": "치타",
+      "initial": "ㅊㅌ",
+      "fhint": "달리기 선수",
+      "shint": "치ㅌ"
+    },
+    {
+      "name": "하마",
+      "initial": "ㅎㅁ",
+      "fhint": "커다란 입",
+      "shint": "하ㅁ"
+    },
+    {
+      "name": "돼지",
+      "initial": "ㄷㅈ",
+      "fhint": "꿀꿀",
+      "shint": "돼ㅈ"
+    },
+    {
+      "name": "여우",
+      "initial": "ㅇㅇ",
+      "fhint": "꽤",
+      "shint": "ㅇ우"
+    },
+    {
+      "name": "늑대",
+      "initial": "ㄴㄷ",
+      "fhint": "아기돼지삼형제",
+      "shint": "ㄴ대"
+    },
+    {
+      "name": "기린",
+      "initial": "ㄱㄹ",
+      "fhint": "목",
+      "shint": "기ㄹ"
+    },
+    {
+      "name": "낙타",
+      "initial": "ㄴㅌ",
+      "fhint": "혹",
+      "shint": "ㄴ타"
+    },
+    {
+      "name": "사슴",
+      "initial": "ㅅㅅ",
+      "fhint": "뿔",
+      "shint": "사ㅅ"
+    },
+    {
+      "name": "염소",
+      "initial": "ㅇㅅ",
+      "fhint": "goat",
+      "shint": "ㅇ소"
+    },
+    {
+      "name": "거미",
+      "initial": "ㄱㅁ",
+      "fhint": "실",
+      "shint": "ㄱ미"
+    }
+  ],
+  "새(2글자) - 1": [
+    {
+      "name": "타조",
+      "initial": "ㅌㅈ",
+      "fhint": "공룡의 후손",
+      "shint": "타ㅈ"
+    },
+    {
+      "name": "오리",
+      "initial": "ㅇㄹ",
+      "fhint": "병아리",
+      "shint": "오ㄹ"
+    },
+    {
+      "name": "거위",
+      "initial": "ㄱㅇ",
+      "fhint": "오리친구",
+      "shint": "거ㅇ"
+    },
+    {
+      "name": "벌새",
+      "initial": "ㅂㅅ",
+      "fhint": "귀여운 외모",
+      "shint": "ㅂ새"
+    },
+    {
+      "name": "공작",
+      "initial": "ㄱㅈ",
+      "fhint": "화려한 깃털",
+      "shint": "공ㅈ"
+    },
+    {
+      "name": "백조",
+      "initial": "ㅂㅈ",
+      "fhint": "OO의 호수",
+      "shint": "ㅂ조"
+    },
+    {
+      "name": "고니",
+      "initial": "ㄱㄴ",
+      "fhint": "백조의 순우리말",
+      "shint": "ㄱ니"
+    },
+    {
+      "name": "제비",
+      "initial": "ㅈㅂ",
+      "fhint": "박씨",
+      "shint": "ㅈ비"
+    },
+    {
+      "name": "까치",
+      "initial": "ㄲㅊ",
+      "fhint": "설날",
+      "shint": "까ㅊ"
+    },
+    {
+      "name": "원앙",
+      "initial": "ㅇㅇ",
+      "fhint": "결혼",
+      "shint": "ㅇ앙"
+    }
+  ],
+  "곤충(2글자) - 1": [
+    {
+      "name": "모기",
+      "initial": "ㅁㄱ",
+      "fhint": "피가좋아요",
+      "shint": "ㅁ기"
+    },
+    {
+      "name": "매미",
+      "initial": "ㅁㅁ",
+      "fhint": "맴맴",
+      "shint": "ㅁ미"
+    },
+    {
+      "name": "나비",
+      "initial": "ㄴㅂ",
+      "fhint": "호랑",
+      "shint": "나ㅂ"
+    },
+    {
+      "name": "개미",
+      "initial": "ㄱㅁ",
+      "fhint": "일꾼",
+      "shint": "ㄱ미"
+    },
+    {
+      "name": "나방",
+      "initial": "ㄴㅂ",
+      "fhint": "나비친구",
+      "shint": "나ㅂ"
+    },
+    {
+      "name": "꿀벌",
+      "initial": "ㄲㅂ",
+      "fhint": "침",
+      "shint": "ㄲ벌"
+    },
+    {
+      "name": "벼룩",
+      "initial": "ㅂㄹ",
+      "fhint": "점프왕",
+      "shint": "벼ㄹ"
+    },
+    {
+      "name": "파리",
+      "initial": "ㅍㄹ",
+      "fhint": "똥",
+      "shint": "ㅍ리"
+    },
+    {
+      "name": "여치",
+      "initial": "ㅇㅊ",
+      "fhint": "메뚜기 친구",
+      "shint": "여ㅊ"
+    }
+  ],
+  "육지동물(3글자) - 2": [
+    {
+      "name": "고양이",
+      "initial": "ㄱㅇㅇ",
+      "fhint": "귀여움",
+      "shint": "고ㅇㅇ"
+    },
+    {
+      "name": "강아지",
+      "initial": "ㄱㅇㅈ",
+      "fhint": "반려동물",
+      "shint": "강ㅇㅈ"
+    },
+    {
+      "name": "거북이",
+      "initial": "ㄱㅂㅇ",
+      "fhint": "느림보",
+      "shint": "거ㅂㅇ"
+    },
+    {
+      "name": "호랑이",
+      "initial": "ㅎㄹㅇ",
+      "fhint": "어흥",
+      "shint": "호ㄹㅇ"
+    },
+    {
+      "name": "코끼리",
+      "initial": "ㅋㄲㄹ",
+      "fhint": "코가손이래",
+      "shint": "코ㄲㄹ"
+    },
+    {
+      "name": "코뿔소",
+      "initial": "ㅋㅃㅅ",
+      "fhint": "뿔",
+      "shint": "ㅋ뿔ㅅ"
+    },
+    {
+      "name": "고릴라",
+      "initial": "ㄱㄹㄹ",
+      "fhint": "킹콩",
+      "shint": "고ㄹㄹ"
+    },
+    {
+      "name": "북극곰",
+      "initial": "ㅂㄱㄱ",
+      "fhint": "흰색",
+      "shint": "ㅂㄱ곰"
+    },
+    {
+      "name": "얼룩말",
+      "initial": "ㅇㄹㅁ",
+      "fhint": "줄무늬",
+      "shint": "ㅇㄹ말"
+    },
+    {
+      "name": "원숭이",
+      "initial": "ㅇㅅㅇ",
+      "fhint": "재주꾼",
+      "shint": "ㅇㅅ이"
+    },
+    {
+      "name": "너구리",
+      "initial": "ㄴㄱㄹ",
+      "fhint": "라면",
+      "shint": "너ㄱㄹ"
+    },
+    {
+      "name": "코알라",
+      "initial": "ㅋㅇㄹ",
+      "fhint": "주머니",
+      "shint": "ㅋㅇ라"
+    }
+  ],
+  "바다동물(3글자) - 2": [
+    {
+      "name": "돌고래",
+      "initial": "ㄷㄱㄹ",
+      "fhint": "똑똑이",
+      "shint": "ㄷ고ㄹ"
+    },
+    {
+      "name": "벨루가",
+      "initial": "ㅂㄹㄱ",
+      "fhint": "하얀돌고래",
+      "shint": "ㅂㄹ가"
+    },
+    {
+      "name": "범고래",
+      "initial": "ㅂㄱㄹ",
+      "fhint": "최상위 포식자",
+      "shint": "범ㄱㄹ"
+    },
+    {
+      "name": "고등어",
+      "initial": "ㄱㄷㅇ",
+      "fhint": "물고기반찬",
+      "shint": "ㄱㄷ어"
+    },
+    {
+      "name": "금붕어",
+      "initial": "ㄱㅂㅇ",
+      "fhint": "작은 붕어",
+      "shint": "ㄱㅂ어"
+    },
+    {
+      "name": "청새치",
+      "initial": "ㅊㅅㅊ",
+      "fhint": "뿔같은 윗턱",
+      "shint": "청ㅅㅊ"
+    },
+    {
+      "name": "가물치",
+      "initial": "ㄱㅁㅊ",
+      "fhint": "메기 친구",
+      "shint": "ㄱ물ㅊ"
+    },
+    {
+      "name": "뱀장어",
+      "initial": "ㅂㅈㅇ",
+      "fhint": "뱀인가 장어인가",
+      "shint": "ㅂㅈ어"
+    },
+    {
+      "name": "해파리",
+      "initial": "ㅎㅍㄹ",
+      "fhint": "투명",
+      "shint": "ㅎㅍ리"
+    },
+    {
+      "name": "가오리",
+      "initial": "ㄱㅇㄹ",
+      "fhint": "연",
+      "shint": "가ㅇㄹ"
+    },
+    {
+      "name": "오징어",
+      "initial": "ㅇㅈㅇ",
+      "fhint": "세모머리",
+      "shint": "ㅇㅈ어"
+    }
+  ],
+  "새(3글자) - 2": [
+    {
+      "name": "독수리",
+      "initial": "ㄷㅅㄹ",
+      "fhint": "대머리",
+      "shint": "독ㅅㄹ"
+    },
+    {
+      "name": "두루미",
+      "initial": "ㄷㄹㅁ",
+      "fhint": "긴부리",
+      "shint": "ㄷㄹ미"
+    },
+    {
+      "name": "비둘기",
+      "initial": "ㅂㄷㄱ",
+      "fhint": "평화의 상징",
+      "shint": "비ㄷㄱ"
+    },
+    {
+      "name": "부엉이",
+      "initial": "ㅂㅇㅇ",
+      "fhint": "야행성",
+      "shint": "부ㅇㅇ"
+    },
+    {
+      "name": "올빼미",
+      "initial": "ㅇㅃㅁ",
+      "fhint": "부엉이 친구",
+      "shint": "올ㅃㅁ"
+    },
+    {
+      "name": "앵무새",
+      "initial": "ㅇㅁㅅ",
+      "fhint": "말을해요",
+      "shint": "ㅇㅁ새"
+    },
+    {
+      "name": "도요새",
+      "initial": "ㄷㅇㅅ",
+      "fhint": "긴 날개와 짧은 꼬리",
+      "shint": "도ㅇㅅ"
+    },
+    {
+      "name": "기러기",
+      "initial": "ㄱㄹㄱ",
+      "fhint": "똑바로 읽어도, 거꾸로 읽어도",
+      "shint": "ㄱ러ㄱ"
+    },
+    {
+      "name": "물총새",
+      "initial": "ㅁㅊㅅ",
+      "fhint": "물놀이 필수품",
+      "shint": "ㅁㅊ새"
+    },
+    {
+      "name": "뻐꾸기",
+      "initial": "ㅃㄲㄱ",
+      "fhint": "남의둥지에 알낳기",
+      "shint": "ㅃㄲ기"
+    },
+    {
+      "name": "까마귀",
+      "initial": "ㄲㅁㄱ",
+      "fhint": "속담",
+      "shint": "까ㅁㄱ"
+    },
+    {
+      "name": "방울새",
+      "initial": "ㅂㅇㅅ",
+      "fhint": "소리",
+      "shint": "방ㅇㅅ"
+    },
+    {
+      "name": "꾀꼬리",
+      "initial": "ㄲㄲㄹ",
+      "fhint": "목소리",
+      "shint": "ㄲㄲ리"
+    },
+    {
+      "name": "팔색조",
+      "initial": "ㅍㅅㅈ",
+      "fhint": "화려한색의 깃털",
+      "shint": "팔ㅅㅈ"
+    }
+  ],
+  "곤충(3글자) - 2": [
+    {
+      "name": "메뚜기",
+      "initial": "ㅁㄸㄱ",
+      "fhint": "런닝맨 리우",
+      "shint": "ㅁㄸ기"
+    },
+    {
+      "name": "배짱이",
+      "initial": "ㅂㅉㅇ",
+      "fhint": "개미와",
+      "shint": "배ㅉㅇ"
+    },
+    {
+      "name": "사마귀",
+      "initial": "ㅅㅁㄱ",
+      "fhint": "쿵푸팬더 맨티스",
+      "shint": "사ㅁㄱ"
+    },
+    {
+      "name": "물방개",
+      "initial": "ㅁㅂㄱ",
+      "fhint": "물에 살아요",
+      "shint": "물ㅂㄱ"
+    },
+    {
+      "name": "잠자리",
+      "initial": "ㅈㅈㄹ",
+      "fhint": "가을에 볼 수 있어요",
+      "shint": "ㅈㅈ리"
+    }
+  ],
+  "파충류(2글자이상) - 3": [
+    {
+      "name": "악어",
+      "initial": "ㅇㅇ",
+      "shint": "악ㅇ"
+    },
+    {
+      "name": "카멜레온",
+      "initial": "ㅋㅁㄹㅇ",
+      "fhint": "변신의왕",
+      "shint": "ㅋ멜ㄹㅇ"
+    },
+    {
+      "name": "이구아나",
+      "initial": "ㅇㄱㅇㄴ",
+      "fhint": "초식도마뱀",
+      "shint": "ㅇ구ㅇㄴ"
+    },
+    {
+      "name": "목도리도마뱀",
+      "initial": "ㅁㄱㄷㄷㅁㅂ",
+      "shint": "ㅁ도ㄹㄷㅁㅂ"
+    },
+    {
+      "name": "두꺼비",
+      "initial": "ㄷㄲㅂ",
+      "shint": "두ㄲㅂ"
+    },
+    {
+      "name": "보아뱀",
+      "initial": "ㅂㅇㅂ",
+      "shint": "ㅂㅇ뱀"
+    },
+    {
+      "name": "도마뱀",
+      "initial": "ㄷㅁㅂ",
+      "shint": "도ㅁㅂ"
+    },
+    {
+      "name": "방울뱀",
+      "initial": "ㅂㅇㅂ",
+      "shint": "방ㅇㅂ"
+    },
+    {
+      "name": "구렁이",
+      "initial": "ㄱㄹㅇ",
+      "shint": "구ㄹㅇ"
+    },
+    {
+      "name": "비단뱀",
+      "initial": "ㅂㄷㅂ",
+      "shint": "비ㄷㅂ"
+    },
+    {
+      "name": "개구리",
+      "initial": "ㄱㄱㄹ",
+      "shint": "개ㄱㄹ"
+    },
+    {
+      "name": "도롱뇽",
+      "initial": "ㄷㄹㄴ",
+      "shint": "도ㄹㄴ"
+    }
+  ],
+  "육지동물(4글자이상) - 3": [
+    {
+      "name": "하이에나",
+      "initial": "ㅎㅇㅇㄴ",
+      "fhint": "청소부",
+      "shint": "하ㅇㅇㄴ"
+    },
+    {
+      "name": "오랑우탄",
+      "initial": "ㅇㄹㅇㅌ",
+      "fhint": "털숭숭",
+      "shint": "오ㄹㅇㅌ"
+    },
+    {
+      "name": "고슴도치",
+      "initial": "ㄱㅅㄷㅊ",
+      "fhint": "뾰족뽀족",
+      "shint": "ㄱㅅ도ㅊ"
+    },
+    {
+      "name": "카피바라",
+      "initial": "ㅋㅍㅂㄹ",
+      "fhint": "가장 큰 설치류",
+      "shint": "ㅋ피ㅂㄹ"
+    },
+    {
+      "name": "사막여우",
+      "initial": "ㅅㅁㅇㅇ",
+      "fhint": "귀가 길어요",
+      "shint": "ㅅ막ㅇㅇ"
+    },
+    {
+      "name": "북극여우",
+      "initial": "ㅂㄱㅇㅇ",
+      "fhint": "귀가 짧아요",
+      "shint": "ㅂㄱ여ㅇ"
+    },
+    {
+      "name": "나무늘보",
+      "initial": "ㄴㅁㄴㅂ",
+      "fhint": "느림보",
+      "shint": "나ㅁㄴㅂ"
+    },
+    {
+      "name": "청개구리",
+      "initial": "ㅊㄱㄱㄹ",
+      "fhint": "반대로말하기",
+      "shint": "ㅊㄱㄱ리"
+    }
+  ],
+  "바다동물(4글자이상) - 3": [
+    {
+      "name": "오리너구리",
+      "initial": "ㅇㄹㄴㄱㄹ",
+      "fhint": "고라파덕",
+      "shint": "ㅇㄹ너ㄱㄹ"
+    },
+    {
+      "name": "바다사자",
+      "initial": "ㅂㄷㅅㅈ",
+      "fhint": "물개친구",
+      "shint": "ㅂ다ㅅㅈ"
+    },
+    {
+      "name": "코끼리물범",
+      "initial": "ㅋㄲㄹㅁㅂ",
+      "fhint": "잠수의 왕",
+      "shint": "ㅋㄲㄹ물ㅂ"
+    },
+    {
+      "name": "향유고래",
+      "initial": "ㅎㅇㄱㄹ",
+      "fhint": "가장 큰 이빨고래",
+      "shint": "ㅎㅇ고ㄹ"
+    },
+    {
+      "name": "바다표범",
+      "initial": "ㅂㄷㅍㅂ",
+      "fhint": "물범",
+      "shint": "ㅂ다ㅍㅂ"
+    },
+    {
+      "name": "바다코끼리",
+      "initial": "ㅂㄷㅋㄲㄹ",
+      "fhint": "긴 송곳니",
+      "shint": "ㅂㄷㅋㄲ리"
+    },
+    {
+      "name": "대왕오징어",
+      "initial": "ㄷㅇㅇㅈㅇ",
+      "fhint": "가장 긴 두족류",
+      "shint": "ㄷㅇ오ㅈㅇ"
+    },
+    {
+      "name": "불가사리",
+      "initial": "ㅂㄱㅅㄹ",
+      "fhint": "별",
+      "shint": "ㅂㄱ사ㄹ"
+    },
+    {
+      "name": "고래상어",
+      "initial": "ㄱㄹㅅㅇ",
+      "fhint": "고래? 상어?",
+      "shint": "고ㄹㅅㅇ"
+    },
+    {
+      "name": "대왕조개",
+      "initial": "ㄷㅇㅈㄱ",
+      "fhint": "가장큰조개",
+      "shint": "ㄷㅇ조ㄱ"
+    },
+    {
+      "name": "귀신고래",
+      "initial": "ㄱㅅㄱㄹ",
+      "fhint": "신출귀몰",
+      "shint": "귀ㅅㄱㄹ"
+    }
+  ],
+  "새(4글자이상) - 3": [
+    {
+      "name": "청둥오리",
+      "initial": "ㅊㄷㅇㄹ",
+      "shint": "ㅊㄷㅇ리"
+    },
+    {
+      "name": "제비갈매기",
+      "initial": "ㅈㅂㄱㅁㄹ",
+      "shint": "제ㅂㄱㅁㄱ"
+    },
+    {
+      "name": "황조롱이",
+      "initial": "ㅎㅈㄹㅇ",
+      "shint": "황ㅈㄹㅇ"
+    },
+    {
+      "name": "직박구리",
+      "initial": "ㅈㅂㄱㄹ",
+      "fhint": "참새목",
+      "shint": "ㅈㅂ구ㄹ"
+    },
+    {
+      "name": "메추라기",
+      "initial": "ㅁㅊㄹㄱ",
+      "fhint": "작은닭",
+      "shint": "ㅁㅊㄹ기"
+    },
+    {
+      "name": "딱따구리",
+      "initial": "ㄸㄸㄱㄹ",
+      "fhint": "시끄러움 주의",
+      "shint": "ㄸㄸㄱ리"
+    },
+    {
+      "name": "해오라기",
+      "initial": "ㅎㅇㄹㄱ",
+      "shint": "해ㅇㄹㄱ"
+    },
+    {
+      "name": "알바트로스",
+      "initial": "ㅇㅂㅌㄹㅅ",
+      "shint": "알ㅂㅌㄹㅅ"
+    },
+    {
+      "name": "수리부엉이",
+      "initial": "ㅅㄹㅂㅇㅇ",
+      "fhint": "수리수리마수리",
+      "shint": "ㅅㄹ부ㅇㅇ"
+    }
+  ],
+  "곤충(4글자이상) - 3": [
+    {
+      "name": "바퀴벌레",
+      "initial": "ㅂㅋㅂㄹ",
+      "shint": "바ㅋㅂㄹ"
+    },
+    {
+      "name": "고추잠자리",
+      "initial": "ㄱㅊㅈㅈㄹ",
+      "shint": "고ㅊㅈㅈㄹ"
+    },
+    {
+      "name": "귀뚜라미",
+      "initial": "ㄱㄸㄹㅁ",
+      "shint": "귀ㄸㄹㅁ"
+    },
+    {
+      "name": "딱정벌레",
+      "initial": "ㄸㅈㅂㄹ",
+      "shint": "딱ㅈㅂㄹ"
+    },
+    {
+      "name": "반딧불이",
+      "initial": "ㅂㄷㅂㅇ",
+      "shint": "반ㄷㅂㅇ"
+    },
+    {
+      "name": "배추흰나비",
+      "initial": "ㅂㅊㅎㄴㅂ",
+      "shint": "배ㅊㅎㄴㅂ"
+    }
+  ]
+}
